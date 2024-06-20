@@ -11,10 +11,15 @@ This template should help get you started developing with Vue 3 in Vite. The tem
   Hanya sebuah app sederhana
 </p>
 
-### Running The App
+## Running The App
 
 ```
 npm run install
 
 npm run dev
 ```
+
+## Images
+
+![Deskripsi Gambar](/public/images/image1.png)
+
